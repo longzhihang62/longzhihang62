@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @longzhihang62
+- 👀 I’m interested in Web developer proficient in Angular. 
+- 🌱 I’m currently learning Committed to creating enriching, user-focused web applications.
